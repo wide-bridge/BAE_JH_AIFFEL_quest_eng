@@ -29,6 +29,9 @@
         -
 <img width="651" height="471" alt="image" src="https://github.com/user-attachments/assets/c33e167a-8e50-48d7-a1dd-92bd5c716228" />
 
+<img width="704" height="559" alt="image" src="https://github.com/user-attachments/assets/7af91aee-f976-4242-a641-1241bbbea8d5" />
+얼굴 오인식된 부분을 확대하여, 다시 인식한 부분입니다. 그럼에서 얼굴 각도가 정면이 아닌 사진은 인식이 안된 것으로 판단됩니다.
+
         
 - [x]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
